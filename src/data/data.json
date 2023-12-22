@@ -1,0 +1,152 @@
+{
+  "Header": {
+    "title": "Find & Hire Expert Freelancers",
+    "paragraph": "Work with the best freelance talent from around the world on our secure, flexible and cost-effective platform.."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "global workspace",
+      "cost effective",
+      "Highly skilled on demand",
+      "Get quality work done quickly"
+    ],
+    "Why2": [
+      "count on 24/7 support ",
+      "good leadership teams",
+      "different types of courses",
+      "strategy consulting"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Data Scientists",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Content Creators",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Designers",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "facebook",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Marketers",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Google Cloud",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "aws",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Machine Learning",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Web Engineers",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Product Managers",
+      "text": "Digital product managers, scrum product owners with expertise in numerous industries like banking, healthcare, ecommerce, and more. "
+    },
+    {
+      "icon": "fa fa-home",
+      "name": "Designers",
+      "text": "Expert UI, UX, Visual, and Interaction designers as well as a wide range of illustrators, animators, and more."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Developers",
+      "text": "Seasoned software engineers, coders, and architects with expertise across hundreds of technologies."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Project-Managers",
+      "text": "Digital and technical project managers, scrum masters, and more with expertise in numerous PM tools, frameworks, and styles. "
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Finance Experts",
+      "text": "Experts in financial modeling & valuation, startup funding, interim CFO work, and market sizing."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Plus Thousands More Skills",
+      "text": "Whatever skill or specialization your business needs, we’ll find the right expert from our extensive talent network."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "JavaScript Developer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Gabriel Alice",
+      "job": "Expert in Finance "
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Catherine Drowsa",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Angeline Mariano",
+      "job": "Product Designer"
+    }
+  ],
+  "Contact": {
+    "address": "17 Thillai Nagar Chennai-614 247",
+    "phone": "+91 89675 90345",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Business",
+      "text": "Accounting and Book Keeping ,E-Commerce Store Manager,Legal Consulting"
+    },
+    {
+      "icon": "fa fa-desktop",
+      "title": "Programming & Tech",
+      "text": "Package of Programming courses and Project Based courses like Python,c#,c++,HTML,CSS,Js"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Digital Marketing",
+      "text": "Search engine Optimization,Social media and Video Marketing"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Graphics & Design",
+      "text": "Minimalist Login Design,Illustration,Making of Web App Design and Brand Style Guides"
+    }
+  ]
+}
